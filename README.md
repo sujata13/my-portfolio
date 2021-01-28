@@ -1,1 +1,1 @@
-This is my Portfolio consist of Home page, Project page, About page.
+This is my Portfolio consist of Home Page, Project Page, About Page.
